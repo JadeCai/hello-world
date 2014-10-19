@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-a new fold
+my first repository in GitHub!
